@@ -1,1 +1,7 @@
 auth part 2 vid
+
+
+
+issue when writing command - "python3 manage.py loaddata products"
+
+Adding the products video?
